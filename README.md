@@ -6,9 +6,10 @@ In this project i have fully automated a bottle filling station , using allen br
 1. [Demonstration link](#demonstration-video)
 1. [About the Project](#about-the-project)
 1. [walking Beam (Station 1)](#walking-beamstation-1)
-1. [Filling station](#filling-station-station-2)
-
-
+1. [Filling (station 2)](#filling-station-station-2)
+1. [Cap insert(station 3)](#cap-insert-station-station-3)
+1. [Cap secure station (station 4)](#cap-secure-stationstation-4)
+1. [Contact](#contact)
 
 ### **Demonstration video**
 
@@ -44,3 +45,24 @@ In this station, after the walking picks the empty bottle and put the bottle sta
 
 ---
 
+### **Cap Insert Station (Station 3)**
+
+After the bottle is filled , the walking beam will move the filled bottled to the cap insert station, in that station the the sensor will detect the postion of the bottle , then in the clamped position the solinoid extend then cap is just inseted the top of the filled bottle, and ready to move to next station, snap of the ladder logic is given below
+
+![Cap insert station](https://github.com/akshayphilip/BottleStn_auto_RSlogix5000_AB/blob/main/images/Cap_insert_station.PNG)
+
+---
+
+### **Cap Secure Station(station 4)**
+This is the final phase of the automation , where the walking beam will carry the cap inserted bottle to the station, then sensor will check wether bottle is arrived or not and there is rotating beam, which will tighten the cap and once cap is tighten the walking beam will push down the bottle and bottle move trough the gravity
+
+![cap secure station](https://github.com/akshayphilip/BottleStn_auto_RSlogix5000_AB/blob/main/images/cap%20secure%20station.PNG)
+
+---
+
+### **Contact**
+for any doubts related to projects, you can contact through my linkdeIn, the link will be given below
+
+[LinkedIn Link](https://www.linkedin.com/in/akshayphilip/)
+
+---
