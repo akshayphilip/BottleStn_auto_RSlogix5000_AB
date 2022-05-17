@@ -61,7 +61,7 @@ This is the final phase of the automation , where the walking beam will carry th
 ---
 
 ### **Contact**
-for any doubts related to projects, you can contact through my linkdeIn, the link will be given below
+for any doubts related to projects, you can contact through my linkedIn, the link will be given below
 
 [LinkedIn Link](https://www.linkedin.com/in/akshayphilip/)
 
